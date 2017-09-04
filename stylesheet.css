@@ -1,0 +1,32 @@
+/**** MAIN STYLE GUIDE ****/
+/*inb4 I switch to bootstrap/sass lol */
+
+body {
+	color: #4F4F4F;
+	background-color: #FFFFFF;
+	margin: 0;
+}
+
+h1, h2, h3, h4, p {
+  font-family: 'Lucinda', monospace;
+}
+
+h1 {
+  font-size: 58pt;
+}
+
+h2 {
+  font-size: 52pt;
+}
+
+h3 {
+  font-size: 20pt;
+}
+
+h4 {
+  font-size: 14pt;
+}
+
+h5 {
+  font-size: 18pt;
+}
