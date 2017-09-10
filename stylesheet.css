@@ -30,3 +30,9 @@ h4 {
 h5 {
   font-size: 18pt;
 }
+
+header {
+	color: #000000;
+	height: 15pt;
+	width: 100%;
+}
