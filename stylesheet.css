@@ -7,8 +7,14 @@ body {
 	margin: 0;
 }
 
+@font-face {
+	font-family: Lucida Console;
+	font-weight: normal;
+	src: url('LUCON.TTF');
+}
+
 h1, h2, h3, h4, p {
-  font-family: 'Lucida Console', monospace;
+  font-family: Lucida Console, monospace;
 }
 
 h1 {
