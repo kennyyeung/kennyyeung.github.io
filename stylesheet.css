@@ -15,6 +15,7 @@ body {
 
 h1, h2, h3, h4, p {
   font-family: Lucida Console, monospace;
+	color: #4A4A4A;
 }
 
 h1 {
@@ -39,6 +40,42 @@ h5 {
 
 header {
 	color: #000000;
-	height: 15pt;
-	width: 100%;
+	height: 25px;
+	padding: 40px;
+}
+
+flex-container{
+	color: #000000;
+	height: 25px;
+	padding: 40px;
+
+}
+
+col-3 {
+	
+}
+
+body {
+	height: 250px;
+}
+
+a {
+	box-shadow: 0 1.5px 0 #B8E986;
+}
+
+a:link    {
+  /* Applies to all unvisited links */
+	text-decoration: none;
+  color:            #4A4A4A;
+}
+
+a:visited {
+  /* Applies to all visited links */
+  text-decoration:  none;
+  font-weight:      normal;
+  color:            #4A4A4A;
+  }
+
+a:hover {
+	color: #B8E986;
 }
