@@ -58,10 +58,13 @@ flex-container{
 	padding-left: 6%;
 }
 
-main {
-	padding-left: 10%;
-	padding-right: 5%;
-	height: 250px;
+div {
+		padding-left: 7%;
+		padding-bottom: 20%;
+}
+
+#gray {
+	background-color: #FAFAFA;
 }
 
 a {
@@ -83,4 +86,42 @@ a:visited {
 
 a:hover {
 	color: #B8E986;
+}
+
+b {
+	display: none;
+}
+
+/***Read More***/
+ .read-more-state {
+  display: none;
+}
+
+.read-more-target {
+  opacity: 0;
+  font-size: 0;
+}
+
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  opacity: 1;
+  font-size: 58px;
+  max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Read more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Read less';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+	font-family: Lucida Console, monospace;
+	color: #4A4A4A;
+	font-size: 20px;
+	box-shadow: 0 1.5px 0 #B8E986;
+	margin-left: 4%;
+	margin-top: 0;
 }
