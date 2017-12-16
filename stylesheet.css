@@ -5,17 +5,17 @@ body {
 	color: #4F4F4F;
 	background-color: #FFFFFF;
 	margin: 0;
-	height: 250px;
+	height: 300px;
 }
 
 @font-face {
-	font-family: Lucida Console;
+	font-family: Lucon;
 	font-weight: normal;
 	src: url('LUCON.TTF');
 }
 
 h1, h2, h3, h4, p {
-  font-family: Lucida Console, monospace;
+  font-family: Lucon, monospace;
 	color: #4A4A4A;
 
 }
@@ -59,12 +59,16 @@ flex-container{
 }
 
 div {
-		padding-left: 7%;
-		padding-bottom: 20%;
+	padding-left: 7%;
+	padding-bottom: 20%;
 }
 
 #gray {
 	background-color: #FAFAFA;
+}
+
+#up {
+
 }
 
 a {
@@ -122,6 +126,6 @@ b {
 	color: #4A4A4A;
 	font-size: 20px;
 	box-shadow: 0 1.5px 0 #B8E986;
-	margin-left: 4%;
+	margin-left: 3%;
 	margin-top: 0;
 }
