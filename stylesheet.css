@@ -30,7 +30,8 @@ h2 {
 
 h3 {
   font-size: 20px;
-	padding-bottom: 2px;
+	line-height: 140%;
+	padding-right: 14%;
 }
 
 h4 {
@@ -67,12 +68,17 @@ div {
 }
 
 #gray {
-	background-color: #FAFAFA;
+	background-color: #F2F2F2;
 }
 
 #right_align {
 	padding-left: 10%;
+	padding-right: 15%;
 	margin-bottom: -3.5%;
+}
+
+#division {
+	padding-bottom: 10%;
 }
 
 a {
