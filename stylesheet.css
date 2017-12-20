@@ -14,7 +14,7 @@ body {
 	src: url('LUCON.TTF');
 }
 
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, h5, p {
   font-family: Lucon, monospace;
 	color: #4A4A4A;
 
@@ -30,6 +30,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+	padding-bottom: 2px;
 }
 
 h4 {
@@ -38,7 +39,9 @@ h4 {
 }
 
 h5 {
-  font-size: 18px;
+  font-size: 14px;
+	margin-top: 12px;
+	margin-bottom: 0px;
 }
 
 header {
@@ -67,8 +70,9 @@ div {
 	background-color: #FAFAFA;
 }
 
-#up {
-
+#right_align {
+	padding-left: 10%;
+	margin-bottom: -3.5%;
 }
 
 a {
@@ -126,6 +130,6 @@ b {
 	color: #4A4A4A;
 	font-size: 20px;
 	box-shadow: 0 1.5px 0 #B8E986;
-	margin-left: 3%;
+	margin-left: 4%;
 	margin-top: 0;
 }
