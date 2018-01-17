@@ -97,6 +97,11 @@ div {
 	padding-bottom: 20%;
 }
 
+#project {
+	background-color: #F2F2F2;
+	padding-bottom: 6%;
+}
+
 flex-container div {
 	color: #000000;
 	margin: 0 auto;
