@@ -166,6 +166,10 @@ b {
 	padding-left: 10%;
 }
 
+#graphic {
+	background-color: #F2F2F2;
+	padding-bottom: 6%;
+}
 /***Read More***/
  .read-more-state {
   display: none;
@@ -226,16 +230,24 @@ b {
 }
 
 #dotlab {
-	width: 100%;
-	padding: 0;
+	background-color: #F2F2F2;
+	width: 85%;
+	padding-top: 5%;
+	padding-left: 2%;
+	margin-left: 5%;
+	padding-bottom: 5%;
+	margin-bottom: 0;
 }
 
+
+
 #ford {
-	width: 100%;
-	padding-top: 0;
-	padding-bottom: 0;
+	background-color: #F2F2F2;
+	width: 80%;
+	padding-top: 5%;
+	padding-bottom: 5%;
 	padding-right: 0;
-	padding-left: 0.5%;
+	margin-left: 5%;
 }
 
 #buffer {
