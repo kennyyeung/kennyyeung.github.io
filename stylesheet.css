@@ -21,22 +21,24 @@ h1, h2, h3, h4, h5, p {
 }
 
 h1 {
-  font-size: 58px;
+  font-size: 50px;
+	font-weight: bold;
 }
 
 h2 {
-  font-size: 52px;
+  font-size: 40px;
+	font-weight: bold;
 }
 
 h3 {
   font-size: 20px;
 	line-height: 140%;
-	padding-right: 13%;
+	margin: 0;
 }
 
 h4 {
-  font-size: 12px;
-	margin: 8px;
+  font-size: 15px;
+	font-weight: bold;
 }
 
 h5 {
@@ -64,6 +66,27 @@ header {
 	/*padding: 60px 80px;*/
 }
 
+#logo {
+	max-width: 300px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#logo2 {
+	max-width: 150px;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+#logo3 {
+	max-width: 300px;
+	padding-top: 20%;
+}
+
+#pic {
+	max-height: 300px;
+}
+
 #about_link {
 	margin: 0;
 }
@@ -83,6 +106,7 @@ header2 {
 	padding-top: 2%;
 }
 
+
 flex-container{
 	color: #000000;
 	margin: 0 auto;
@@ -91,6 +115,7 @@ flex-container{
 	display: flex;
 	padding-left: 0%;
 }
+
 
 #footer {
 	background-color: #F2F2F2;
@@ -102,14 +127,49 @@ flex-container{
 	padding-bottom: 15%;
 }
 
+/***
 div {
 	padding-left: 7%;
 	padding-bottom: 20%;
 }
+***/
 
-#project {
+#ford_project {
 	background-color: #F2F2F2;
 	padding-bottom: 6%;
+	padding-top: 6%;
+}
+
+#ford_project:hover {
+	background-color: #FAFAFA;
+}
+
+#replate_project {
+	background-color: #FFFFFF;
+	padding-bottom: 6%;
+	padding-top: 6%;
+}
+
+#replate_project:hover {
+	background-color: #FAFAFA;
+}
+
+#dotlabs_project {
+	background-color: #F2F2F2;
+	padding-bottom: 12%;
+	padding-top: 8%;
+}
+
+#dotlabs_project:hover {
+	background-color: #FAFAFA;
+}
+
+#line {
+		box-shadow: 0 -1.5px 0 #4A4A4A;
+}
+
+#center {
+	text-align: center;
 }
 
 flex-container div {
@@ -140,7 +200,8 @@ div header {
 }
 
 a {
-	box-shadow: 0 1.5px 0 #B8E986;
+	color:            #4A4A4A;
+	font-weight: normal;
 }
 
 a:link    {
@@ -160,9 +221,7 @@ a:hover {
 	color: #B8E986;
 }
 
-b {
-	display: none;
-}
+
 
 #nav {
 	height: 50%;
