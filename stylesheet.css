@@ -127,6 +127,10 @@ header {
 	margin-top: 50px;
 }
 
+#space5 {
+	margin-top: 150px;
+}
+
 #ford_work {
 	width: 100%;
 }
@@ -167,6 +171,11 @@ header {
 	width: 90%;
 }
 
+#homeimage {
+	width: 37%;
+	opacity: 0.5;
+	margin-left: 640px;
+}
 
 
 .rectangle {
@@ -227,6 +236,18 @@ header {
 
 #work_section{
 
+}
+
+.image {
+   position: relative; 
+   width: 100%;
+}
+
+#imagetext {
+   position: absolute; 
+   top: 100px; 
+   left: 0; 
+   width: 100%; 
 }
 
 html {
