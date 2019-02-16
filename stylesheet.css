@@ -80,6 +80,8 @@ h11 {
 	font-size: 50px;
 }
 
+
+
 #underline {
 	text-decoration: underline;
 	text-decoration-color: #B8E986;
@@ -296,7 +298,7 @@ triangle {
 
 .helper2 {
     display: inline-block;
-    height: 25%;
+    height: 34%;
     vertical-align: middle;
 }
 
@@ -352,7 +354,7 @@ triangle {
 }
 
 #logo2 {
-	max-height: 150px;
+	max-height: 95px;
 	opacity: .8;
 }
 
