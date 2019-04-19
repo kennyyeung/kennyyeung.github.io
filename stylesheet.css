@@ -8,76 +8,72 @@ body {
 	height: 300px;
 }
 
-@font-face {
-	font-family: 'Work Sans', sans-serif;
-	font-weight: normal;
-	src: url('WorkSans.TTF');
-}
-
 h1, h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, p {
-  font-family: Work Sans, sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	color: #4A4A4A;
-
 }
 
 h1 {
   font-size: 50px;
-	font-weight: SemiBold;
+	font-weight: 600;
 }
 
 h2 {
   font-size: 40px;
-	font-weight: SemiBold;
+	font-weight: 600;
 }
 
 h3 {
   font-size: 20px;
 	line-height: 140%;
 	margin: 0;
-	font-weight: normal;
+	font-weight: 400;
 }
 
 h4 {
   font-size: 15px;
-	font-weight: SemiBold;
+	font-weight: 600;
 }
 
 h5 {
   font-size: 14px;
 	margin-top: 12px;
 	margin-bottom: 0px;
+	font-weight: 400;
 }
 
 h6 {
 	font-size: 15px;
-	font-weight: normal;
+	font-weight: 400;
 	margin: 2px;
 }
 
 h7 {
 	font-size: 15px;
-	font-weight: 500;
+	font-weight: 600;
 	margin: 0;
 }
 
 h8 {
 	font-size: 30px;
-	font-weight: 500;
+	font-weight: 600;
 	margin: 0;
 }
 
 h9 {
 	font-size: 20px;
+	font-weight: 400;
 }
 
 h10 {
 	font-size: 20px;
-	font-weight: 500;
+	font-weight: 400;
 	margin: 0;
 }
 
 h11 {
 	font-size: 50px;
+	font-weight: 400;
 }
 
 
