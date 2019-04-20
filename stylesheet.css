@@ -67,7 +67,7 @@ h9 {
 
 h10 {
 	font-size: 20px;
-	font-weight: 400;
+	font-weight: 600;
 	margin: 0;
 }
 
@@ -237,15 +237,15 @@ header {
 }
 
 .image {
-   position: relative; 
+   position: relative;
    width: 100%;
 }
 
 #imagetext {
-   position: absolute; 
-   top: 100px; 
-   left: 0; 
-   width: 100%; 
+   position: absolute;
+   top: 100px;
+   left: 0;
+   width: 100%;
 }
 
 html {
@@ -284,7 +284,7 @@ triangle {
 	transform: rotate(45deg);
   	-webkit-transform: rotate(45deg);
   }
-  
+
 
 .helper {
     display: inline-block;
@@ -300,14 +300,14 @@ triangle {
 
 .rectangle2 {
 	height: 300px;
-	width: auto;	
+	width: auto;
 	border-radius: 20px;
 	background-color: #ECE9DA;
   }
 
   .rectangle3 {
 	height: 300px;
-	width: auto;	
+	width: auto;
 	border-radius: 20px;
 	background-color: #F4DAF3;
   }
