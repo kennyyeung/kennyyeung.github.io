@@ -131,41 +131,91 @@ header {
 
 #ford_work {
 	width: 100%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work2 {
 	width: 55%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work3 {
 	width: 44%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work4 {
 	width: 69%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work5 {
 	width: 29%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work6 {
-	width: 49%
+	width: 49%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work7 {
-	width: 32%
+	width: 32%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work8 {
 	width: 37%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work9 {
-	width: 62%
+	width: 62%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
 }
 
 #ford_work10 {
+	width: 90%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
+}
+
+#ford_work_noshadow {
+	width: 100%;
+}
+
+#ford_work2_noshadow {
+	width: 55%;
+}
+
+#ford_work3_noshadow {
+	width: 44%;
+}
+
+#ford_work4_noshadow {
+	width: 69%;
+}
+
+#ford_work5_noshadow {
+	width: 29%;
+}
+
+#ford_work6_noshadow {
+	width: 49%;
+}
+
+#ford_work7_noshadow {
+	width: 32%;
+}
+
+#ford_work8_noshadow {
+	width: 37%;
+}
+
+#ford_work9_noshadow {
+	width: 62%;
+}
+
+#ford_work10_noshadow {
 	width: 90%;
 }
 
